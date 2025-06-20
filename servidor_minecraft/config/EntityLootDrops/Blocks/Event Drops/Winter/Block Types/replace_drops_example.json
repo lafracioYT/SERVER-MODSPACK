@@ -1,0 +1,15 @@
+{
+  "blockId": "minecraft:coal_ore",
+  "itemId": "minecraft:diamond",
+  "dropChance": 100.0,
+  "minAmount": 1,
+  "maxAmount": 2,
+  "requiredToolLevel": 0,
+  "requiredEnchantLevel": 0,
+  "commandChance": 0.0,
+  "requirePlayerBreak": true,
+  "allowDefaultDrops": false,
+  "replaceDefaultDrops": true,
+  "allowModIDs": [],
+  "_comment": "Example of replacing coal ore drops with diamonds"
+}

@@ -1,0 +1,42 @@
+[
+{
+  "entityId": "blue_skies:arachnarch",
+  "itemId": "mmorpg:runes/daw",
+  "dropChance": 25.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:arachnarch",
+  "itemId": "blue_skies:loot_bags/arachnarch/common",
+  "dropChance": 25.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:arachnarch",
+  "itemId": "blue_skies:loot_bags/arachnarch/uncommon",
+  "dropChance": 10.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:arachnarch",
+  "itemId": "blue_skies:loot_bags/arachnarch/rare",
+  "dropChance": 5.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+}
+]

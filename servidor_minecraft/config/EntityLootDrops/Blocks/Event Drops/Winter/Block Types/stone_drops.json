@@ -1,0 +1,16 @@
+{
+  "blockId": "minecraft:stone",
+  "itemId": "minecraft:diamond",
+  "dropChance": 1.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "requiredTool": "minecraft:diamond_pickaxe",
+  "requiredToolLevel": 0,
+  "requiredEnchantLevel": 0,
+  "commandChance": 0.0,
+  "requirePlayerBreak": true,
+  "allowDefaultDrops": true,
+  "replaceDefaultDrops": false,
+  "allowModIDs": [],
+  "_comment": "Example diamond drop from stone"
+}

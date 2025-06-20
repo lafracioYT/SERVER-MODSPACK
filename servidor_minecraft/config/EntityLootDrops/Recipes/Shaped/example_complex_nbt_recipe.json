@@ -1,0 +1,18 @@
+{
+  "name": "super_sword",
+  "type": "shaped",
+  "outputItem": "minecraft:diamond_sword",
+  "outputCount": 1,
+  "outputNbt": "{display:{Name:\u0027{\"text\":\"Super Sword\",\"color\":\"gold\",\"bold\":true}\u0027,Lore:[\u0027{\"text\":\"A legendary weapon\",\"color\":\"purple\",\"italic\":true}\u0027]},Enchantments:[{id:\"minecraft:sharpness\",lvl:10},{id:\"minecraft:looting\",lvl:5}],AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:20,Operation:0,UUID:[I;123,456,789,0],Slot:\"mainhand\"}],Unbreakable:1b,HideFlags:63}",
+  "pattern": [
+    " X ",
+    " X ",
+    " Y "
+  ],
+  "key": {
+    "X": "minecraft:nether_star",
+    "Y": "minecraft:blaze_rod"
+  },
+  "group": "weapons",
+  "_comment": "Example recipe with complex NBT data"
+}

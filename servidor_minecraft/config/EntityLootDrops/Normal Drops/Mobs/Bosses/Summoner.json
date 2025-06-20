@@ -1,0 +1,42 @@
+[
+{
+  "entityId": "blue_skies:summoner",
+  "itemId": "mmorpg:runes/daw",
+  "dropChance": 10.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:summoner",
+  "itemId": "blue_skies:loot_bags/summoner/common",
+  "dropChance": 25.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:summoner",
+  "itemId": "blue_skies:loot_bags/summoner/uncommon",
+  "dropChance": 10.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:summoner",
+  "itemId": "blue_skies:loot_bags/summoner/rare",
+  "dropChance": 5.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+}
+]

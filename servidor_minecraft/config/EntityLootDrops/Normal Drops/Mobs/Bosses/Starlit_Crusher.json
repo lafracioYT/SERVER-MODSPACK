@@ -1,0 +1,42 @@
+[
+{
+  "entityId": "blue_skies:starlit_crusher",
+  "itemId": "mmorpg:runes/bri",
+  "dropChance": 25.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:starlit_crusher",
+  "itemId": "blue_skies:loot_bags/starlit_crusher/common",
+  "dropChance": 25.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:starlit_crusher",
+  "itemId": "blue_skies:loot_bags/starlit_crusher/uncommon",
+  "dropChance": 10.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+},
+{
+  "entityId": "blue_skies:starlit_crusher",
+  "itemId": "blue_skies:loot_bags/starlit_crusher/rare",
+  "dropChance": 5.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "commandChance": 0.0,
+  "_comment": "",
+  "requirePlayerKill": true
+}
+]

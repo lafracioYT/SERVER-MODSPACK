@@ -1,0 +1,16 @@
+{
+  "name": "diamond_helmet_with_enchants",
+  "type": "shaped",
+  "outputItem": "minecraft:diamond_helmet",
+  "outputCount": 1,
+  "outputNbt": "{display:{Name:\u0027{\"text\":\"Enchanted Helmet\",\"color\":\"aqua\"}\u0027},Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3}]}",
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": "minecraft:diamond"
+  },
+  "group": "helmets",
+  "_comment": "Example shaped recipe with NBT data"
+}

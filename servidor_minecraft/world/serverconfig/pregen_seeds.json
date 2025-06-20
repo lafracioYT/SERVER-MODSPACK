@@ -1,0 +1,102 @@
+{
+	"level_seeds": [
+		{
+			"dim": "undergarden:undergarden",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "ancient_obelisks:obelisk",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "dungeon_realm:dungeon",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "the_harvest:harvest",
+			"seed": -2886159049649004848
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "undergarden:undergarden",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "ancient_obelisks:obelisk",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "mmorpg:dungeon",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "dungeon_realm:dungeon",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": -2886159049649004848
+		},
+		{
+			"dim": "the_harvest:harvest",
+			"seed": -2886159049649004848
+		}
+	]
+}

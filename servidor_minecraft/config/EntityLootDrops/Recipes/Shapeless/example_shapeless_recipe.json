@@ -1,0 +1,13 @@
+{
+  "name": "golden_apple_from_gold_blocks",
+  "type": "shapeless",
+  "outputItem": "minecraft:golden_apple",
+  "outputCount": 1,
+  "ingredients": [
+    "minecraft:gold_block",
+    "minecraft:gold_block",
+    "minecraft:apple"
+  ],
+  "group": "",
+  "_comment": "Example shapeless recipe"
+}

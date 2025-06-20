@@ -1,0 +1,18 @@
+{
+  "dropChanceEnableMessage": "§6[Block Events] §aDouble Drop Chance event has been enabled! §e(2x drop rates)",
+  "doubleDropsEnableMessage": "§6[Block Events] §aDouble Drops event has been enabled! §e(2x amounts)",
+  "disableMessages": {
+    "halloween": "§6[Block Events] §cHalloween event has been disabled!",
+    "winter": "§6[Block Events] §cWinter event has been disabled!",
+    "easter": "§6[Block Events] §cEaster event has been disabled!",
+    "summer": "§6[Block Events] §cSummer event has been disabled!"
+  },
+  "enableMessages": {
+    "halloween": "§6[Block Events] §aHalloween event has been enabled!",
+    "winter": "§6[Block Events] §aWinter event has been enabled!",
+    "easter": "§6[Block Events] §aEaster event has been enabled!",
+    "summer": "§6[Block Events] §aSummer event has been enabled!"
+  },
+  "dropChanceDisableMessage": "§6[Block Events] §cDouble Drop Chance event has been disabled!",
+  "doubleDropsDisableMessage": "§6[Block Events] §cDouble Drops event has been disabled!"
+}

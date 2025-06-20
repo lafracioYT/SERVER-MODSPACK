@@ -1,0 +1,17 @@
+{
+  "blockId": "minecraft:stone",
+  "itemId": "minecraft:diamond",
+  "dropChance": 0.0,
+  "minAmount": 1,
+  "maxAmount": 1,
+  "requiredTool": "",
+  "requiredToolLevel": 0,
+  "requiredEnchantLevel": 0,
+  "commandChance": 0.0,
+  "command": "particle minecraft:end_rod {block_x} {block_y} {block_z} 0.5 0.5 0.5 0.1 20",
+  "requirePlayerBreak": true,
+  "allowDefaultDrops": true,
+  "replaceDefaultDrops": false,
+  "allowModIDs": [],
+  "_comment": "Example diamond drop from stone"
+}

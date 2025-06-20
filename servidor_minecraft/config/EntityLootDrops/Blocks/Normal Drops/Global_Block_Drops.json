@@ -1,0 +1,34 @@
+[
+  {
+    "itemId": "minecraft:emerald",
+    "dropChance": 0.0,
+    "minAmount": 1,
+    "maxAmount": 3,
+    "requiredToolLevel": 0,
+    "requiredEnchantLevel": 0,
+    "commandChance": 0.0,
+    "requirePlayerBreak": true,
+    "allowDefaultDrops": true,
+    "replaceDefaultDrops": false,
+    "allowModIDs": [],
+    "_comment": "Simple emerald drop from any block"
+  },
+  {
+    "itemId": "minecraft:diamond",
+    "dropChance": 0.0,
+    "minAmount": 1,
+    "maxAmount": 1,
+    "requiredTool": "minecraft:diamond_pickaxe",
+    "requiredToolTier": "diamond",
+    "requiredToolLevel": 3,
+    "requiredEnchantment": "minecraft:fortune",
+    "requiredEnchantLevel": 3,
+    "command": "particle minecraft:end_rod {block_x} {block_y} {block_z} 0.5 0.5 0.5 0.1 20",
+    "commandChance": 0.0,
+    "requirePlayerBreak": true,
+    "allowDefaultDrops": true,
+    "replaceDefaultDrops": false,
+    "allowModIDs": [],
+    "_comment": "Complex diamond drop with tool requirements"
+  }
+]

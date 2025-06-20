@@ -1,0 +1,49 @@
+
+#Auto Repair Kits Configs
+[general]
+	#Example, at default setting of 100 ticks, (1 second is 20 ticks), the repair kits will automatically repair player's gear every 5 seconds
+	#Range: 1 ~ 5000
+	repair_interval = 100
+	#What items can be used to charge the repair kits. Usage: minecraft:diamond;50  to make diamonds charge the kit for 50 durability
+	charge_material_items = ["minecraft:leather;10", "minecraft:iron_ingot;25", "minecraft:gold_ingot;50", "minecraft:diamond;250", "minecraft:netherite_ingot;500"]
+
+	[general.LEATHER]
+		#The amount the Kit can be charged.
+		#Range: > 0
+		max_charges = 500
+		#The total amount the kit can repair at once every 5s. (This is per each item)
+		#Range: > 0
+		max_repair_per_item_every_5s = 10
+
+	[general.IRON]
+		#The amount the Kit can be charged.
+		#Range: > 0
+		max_charges = 1000
+		#The total amount the kit can repair at once every 5s. (This is per each item)
+		#Range: > 0
+		max_repair_per_item_every_5s = 25
+
+	[general.GOLD]
+		#The amount the Kit can be charged.
+		#Range: > 0
+		max_charges = 2500
+		#The total amount the kit can repair at once every 5s. (This is per each item)
+		#Range: > 0
+		max_repair_per_item_every_5s = 50
+
+	[general.DIAMOND]
+		#The amount the Kit can be charged.
+		#Range: > 0
+		max_charges = 5000
+		#The total amount the kit can repair at once every 5s. (This is per each item)
+		#Range: > 0
+		max_repair_per_item_every_5s = 100
+
+	[general.NETHERITE]
+		#The amount the Kit can be charged.
+		#Range: > 0
+		max_charges = 10000
+		#The total amount the kit can repair at once every 5s. (This is per each item)
+		#Range: > 0
+		max_repair_per_item_every_5s = 250
+
